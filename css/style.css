@@ -2,7 +2,6 @@ body {
     background: #ddd8d5;
     color: #91966e;
     margin: 0;
-    padding: 0;
     height: 100%;
     width: 100%;
     font-family: "Helvetica Neue";
@@ -17,7 +16,7 @@ body {
   
   section {
     background: #e4e4e6;
-    padding: 6rem 3rem;
+    padding: 2rem 10rem;
     margin: 0;
   }
   
@@ -67,7 +66,7 @@ body {
 
   /* unvisited link */
 a:link {
-    color: #ffffff;
+    color: red;
 }
 
 /* visited link */
